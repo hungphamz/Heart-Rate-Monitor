@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MeasureVC captureOutput:didOutputSampleBuffer:fromConnection:]:MeasureVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryVC viewWillAppear:]:HistoryVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrHisData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HistoryVC tableView:commitEditingStyle:forRowAtIndexPath:]:HistoryVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+            <PersistentString
+               value = "arrHisData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MeasureVC startCameraCapture]:MeasureVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HRDetector addNewValue:atTime:]:HRDetector.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "upVals">
+            </PersistentString>
+            <PersistentString
+               value = "periodTimes">
+            </PersistentString>
+            <PersistentString
+               value = "periods">
+            </PersistentString>
+            <PersistentString
+               value = "downVals">
+            </PersistentString>
+            <PersistentString
+               value = "wasDown">
+            </PersistentString>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
